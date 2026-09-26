@@ -3,7 +3,7 @@ import httpx
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TELEGRAM_TOKEN = os.getenv("8934684718:AAEysYEXc_2yBKRmF5Raae1qK-WG5BTW8sQ")
+TELEGRAM_TOKEN = os.getenv("") # Pon tu token generado con BotFather en Telegram
 PARADA_DEFECTO = "22"  # Cambia por tu poste habitual
 
 
